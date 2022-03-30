@@ -1,0 +1,11 @@
+{
+    "name": "Flatiron",
+    "short-name": "Flatiron",
+    "icons": [{
+        "src": "google-touch-icon",
+        "sizes": "512x512"
+    }],
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "standalone"
+}
